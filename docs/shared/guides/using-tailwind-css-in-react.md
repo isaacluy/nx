@@ -6,7 +6,7 @@ For more in-depth look on this topic, be sure to check out our blog post on [Set
 
 ## Step 1: Install Tailwind Dependencies
 
-`npm install tailwindcss@latest postcss@latest autoprefixer@latest`
+`npm install -D tailwindcss@latest postcss@latest autoprefixer@latest`
 
 This installs the requisite tailwind dependencies.
 
